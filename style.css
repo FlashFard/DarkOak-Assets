@@ -1,1 +1,13 @@
+h1{
+
+text-align:center;
+font-family:Dongle, Arial, Sans serif;
+background-image:url(https://www.tynker.com/minecraft/api/block?id=581d16615881619a2b8b4568&w=400&h=400&width=400&height=400&mode=contain&format=jpg&quality=75&cache=max&v=1478301281);
+color:white;
+border:20px solid;
+border-radius: 30px;
+height:300px;
+font-size:100px;
+
+}
 
